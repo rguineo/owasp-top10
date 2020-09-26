@@ -21,8 +21,8 @@ $password = $_POST['password'];
 // $password = $_GET['password'];
 
 // Se usa mysqli_real_escape_string para evitar los caracteres especiales 
-// $_usuario = mysqli_real_escape_string($conexion, $usuario);
-// $_password = mysqli_real_escape_string($conexion, $password);
+// $usuario = mysqli_real_escape_string($conexion, $usuario);
+// $password = mysqli_real_escape_string($conexion, $password);
 
 $sql = "SELECT *
 		FROM usuarios 
