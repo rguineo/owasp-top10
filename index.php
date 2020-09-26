@@ -40,7 +40,7 @@ header( "Set-Cookie: name=value; httpOnly" );
 
 <hr>
 <br>
-<!-- <h1>Encriptar texto</h1>
+<h1>Encriptar texto</h1>
 <form method="post" action="encriptar.php">
 
 	<label for="usuario">Texto</label>	
@@ -71,6 +71,6 @@ header( "Set-Cookie: name=value; httpOnly" );
 <script>
 	console.log('Nuevo ejemplo de vista por consola ...')
 </script>
--->
+
 </body>
 </html>
